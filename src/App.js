@@ -1,5 +1,4 @@
 import React, {Component} from "react";
-import {Button} from "@salesforce/design-system-react";
 import logo from "./logo.svg";
 import "./App.css";
 import PanelExample from "./PanelExample";
